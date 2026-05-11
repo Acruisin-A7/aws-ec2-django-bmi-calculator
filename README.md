@@ -4,6 +4,10 @@ A Django-based BMI Calculator deployed on AWS using traditional
 EC2 infrastructure — demonstrating VPC networking, Linux server 
 configuration, and a production-grade Nginx + Gunicorn stack.
 
+## Architecture
+
+![Architecture Diagram](BMI-calculator.png)
+
 ## AWS Infrastructure
 
 - **VPC** — Custom VPC with CIDR 10.0.0.0/16
